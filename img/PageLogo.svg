@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="73px" height="63px" viewBox="0 0 73 63" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>PageLogo</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="square">
+        <g id="Extra-large:-Desktops---12-col-Copy" transform="translate(-604.000000, -261.000000)" stroke-width="6.80000019">
+            <g id="PageLogo" transform="translate(608.000000, 265.000000)">
+                <path d="M0,0 C6.8157959,0 7.13042265,9 15.5037548,9 C23.8770869,9 23.5441566,1.51861084e-16 32.5,0 C41.4558434,0 41.3080361,9 49.6090216,9 C57.9100072,9 58.1578947,0 65,0" id="Line-2-Copy-13" stroke="#4A45FF"></path>
+                <path d="M0,23 C6.8157959,23 7.13042265,32 15.5037548,32 C23.8770869,32 23.5441566,23 32.5,23 C41.4558434,23 41.3080361,32 49.6090216,32 C57.9100072,32 58.1578947,23 65,23" id="Line-2-Copy-14" stroke="#5CCFE1"></path>
+                <path d="M0,46 C6.8157959,46 7.13042265,55 15.5037548,55 C23.8770869,55 23.5441566,46 32.5,46 C41.4558434,46 41.3080361,55 49.6090216,55 C57.9100072,55 58.1578947,46 65,46" id="Line-2-Copy-15" stroke="#FFD783"></path>
+            </g>
+        </g>
+    </g>
+</svg>

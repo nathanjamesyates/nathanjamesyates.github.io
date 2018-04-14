@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="92px" height="36px" viewBox="0 0 92 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>Logo@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Extra-large:-Desktops---12-col" transform="translate(-1128.000000, -108.000000)">
+            <g id="Logo" transform="translate(1130.000000, 86.000000)">
+                <g id="Group" transform="translate(48.000000, 0.000000)" fill="#000000" font-family="Avenir-HeavyOblique, Avenir" font-size="43" font-style="italic" font-weight="600" letter-spacing="-5.48250008">
+                    <text id="yy">
+                        <tspan x="0" y="43">yy</tspan>
+                    </text>
+                </g>
+                <path d="M0.5,24.5 C4.48461914,24.5 4.66855478,29.5 9.56373355,29.5 C14.4589123,29.5 14.2642761,24.5 19.5,24.5 C24.7357239,24.5 24.6493134,29.5 29.5021973,29.5 C34.3550811,29.5 34.5,24.5 38.5,24.5" id="Line-2-Copy-13" stroke="#4A45FF" stroke-width="4" stroke-linecap="square"></path>
+                <path d="M0.5,37.5 C4.48461914,37.5 4.66855478,42.5 9.56373355,42.5 C14.4589123,42.5 14.2642761,37.5 19.5,37.5 C24.7357239,37.5 24.6493134,42.5 29.5021973,42.5 C34.3550811,42.5 34.5,37.5 38.5,37.5" id="Line-2-Copy-14" stroke="#5CCFE1" stroke-width="4" stroke-linecap="square"></path>
+                <path d="M0.5,50.5 C4.48461914,50.5 4.66855478,55.5 9.56373355,55.5 C14.4589123,55.5 14.2642761,50.5 19.5,50.5 C24.7357239,50.5 24.6493134,55.5 29.5021973,55.5 C34.3550811,55.5 34.5,50.5 38.5,50.5" id="Line-2-Copy-15" stroke="#FFD783" stroke-width="4" stroke-linecap="square"></path>
+            </g>
+        </g>
+    </g>
+</svg>

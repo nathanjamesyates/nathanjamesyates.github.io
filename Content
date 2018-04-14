@@ -1,0 +1,67 @@
+Step Zero: The Context
+
+A sure way to create poorly designed digital product is to fail to gain contextual empathy during the design
+
+Most organizations have at least a good understanding of who their user is and structure these into loose personas. These high-level personas are a good point of inception for the designer as they will enable us to frame the problem whilst being cognisant of the user’s needs and goals.
+
+Interactions are created and amended by context
+
+After defining high-level personas, designers should then perform some analysis of contextual factors that influence, drive and modify how people use the product.
+
+When designing interactions, I like to examine context across the following dimensions:
+
+Motivational Context – What factors are driving users to undertake the interaction.
+
+Environmental Context – Consider the ambient environment. How does it modify the interaction.
+
+Emotional Context – How does the user’s mood and anxieties affect the nature of the interaction.
+
+Step One: The Stories
+
+Generally, the majority of design discovery work should consist of generating user stories in order to formulate some sort of functional requirement.
+
+The first step in generating these user stories is to simply map the user’s current process for completing the ‘job’ that we’re building for. This allows us to understand points of pain and friction in our user’s lives that we might be able to remedy.
+
+Alongside this, we can now map the main flow of the product we’ll build. This side-by-side comparison allows us to identify and anticipate points of strength, weakness and risk.
+
+stories-image
+
+Step Two: Visualization
+
+After truly defining the problem, we can start to think about the user stories in component level detail.
+
+Starting with low-fidelity sketches and a wide scope of design solutions, I’ll create multiple iterations whilst increasing the level of fidelity at each interval. Additionally, I’ll be examining each iteration interval against a set of criteria outlined below.
+
+visualization-image
+
+Step Three: Feasibility
+
+At each iteration interval, designers should consider feasibility risk. Technical feasibility aside, I like to examine design feasibility across the following dimensions.
+
+feasibility-image
+
+Step Four: Rinse and Repeat
+
+With each passing iteration, I’ll increase the fidelity and run each design solution through the criteria set out above.
+
+repeat-image
+
+Step Five: Release
+
+As each iteration cycle passes, I continually analyse them through the lense of the various criteria already outlined.
+
+At the point where one or more design solutions satisfies the majority of the criteria I’ll move into implementation. That said, I view all implementation as purely an increase in fidelity. As such it can be said that this step is, at it’s core, an extension of the previous step.
+
+Generally speaking, the goal of the release step is to learn more about how users interact with our product in ‘the wild’. This allows us to create new assumptions and formulate a plan to improve the newly released product.
+
+Since this step is purely an extension of fidelity, we can use the same analysis criteria to help formulate these new assumptions.
+
+release-image
+
+As the amount of iteration cycles increase, we should encounter increased levels of effectiveness, efficiency and satisfaction.
+
+Theoretically, the product team should continue this process until the diminishing returns are deemed to great. That said, failure to iterate for long enough, caused by competing product ideas, can mean that teams fail to implement successful designs.
+
+As I continue to develop my ideas, I hope to update the process seen here and formulate better ways for Designers to measure success.
+
+I’d love to hear any feedback or explain any of the ideas discussed here – you can do that by contacting me below.

@@ -1,14 +1,14 @@
 h1 {
     font-family: 'Roboto Mono', monospace;
     opacity: 1;
-    font-family: RobotoMono-Medium;
+    font-family: RobotoMono-Medium, sans-serif !important;;
     font-size: 94px;
     color: #343434;
     line-height: 124px;
 }
 
 h2{
-    font-family: RobotoMono-Medium;
+    font-family: RobotoMono-Medium, sans-serif !important;;
     font-size: 20px;
     color: #B6B6B6;
     letter-spacing: 2.62px;
@@ -22,7 +22,7 @@ h2{
 
 
 h4 {
-    font-family: RobotoMono-Medium;
+    font-family: RobotoMono-Medium, sans-serif !important;;
     text-transform: uppercase;
     font-size: 16px;
     color: #A2A2A2;
@@ -31,14 +31,14 @@ h4 {
 }
 
 h3{
-    font-family: RobotoMono-Medium;
+    font-family: RobotoMono-Medium, sans-serif !important;;
     font-size: 24px;
     color: #484848;
     line-height: 50px;
 }
 
 .main-button{
-    font-family: RobotoMono-Bold;
+    font-family: RobotoMono-Bold, sans-serif !important;;
     font-size: 20px;
     color: #000000;
     letter-spacing: 2.62px;
@@ -105,7 +105,7 @@ h3{
 }
 
 .nav-link{
-    font-family: RobotoMono-Medium;
+    font-family: RobotoMono-Medium, sans-serif !important;;
     font-size: 28px;
     color: #939393;
     text-align: left;
@@ -115,7 +115,7 @@ h3{
 
 
 .active{
-    font-family: RobotoMono-Medium;
+    font-family: RobotoMono-Medium, sans-serif !important;;
     font-size: 28px;
     color: #343434;
     text-align: left;
@@ -130,7 +130,7 @@ h3{
 }
 
 .achievements{
-    font-family: RobotoMono-Medium;
+    font-family: RobotoMono-Medium, sans-serif !important;;
     font-size: 14px;
     color: #A2A2A2;
     letter-spacing: 1.05px;
@@ -154,7 +154,7 @@ h3{
 }
 
 h5{
-font-family: RobotoMono-Bold;
+font-family: RobotoMono-Bold, sans-serif !important;;
 font-size: 16px;
 color: #484848;
 letter-spacing: 2.1px;
@@ -165,7 +165,7 @@ margin-bottom: 40px;
 }
 
 .caption{
-    font-family: RobotoMono-Medium;
+    font-family: RobotoMono-Medium, sans-serif !important;;
     font-size: 14px;
     color: #A2A2A2;
     letter-spacing: 1.05px;
@@ -178,7 +178,7 @@ margin-bottom: 40px;
 }
 
 p{
-    font-family: RobotoMono-Medium;
+    font-family: RobotoMono-Medium, sans-serif !important;;
     font-size: 20px;
     color: #8E8E8E;
     line-height: 48px;
@@ -196,14 +196,14 @@ p{
 
 .footer h1{
     opacity: 0.9;
-    font-family: RobotoMono-Medium;
+    font-family: RobotoMono-Medium, sans-serif !important;;
     font-size: 64px;
     color: #FFFFFF;
     line-height: 100px;
 }
 
 .footer .main-button{
-    font-family: RobotoMono-Medium;
+    font-family: RobotoMono-Medium, sans-serif !important;;
     font-size: 20px;
     color: #FFFFFF;
     letter-spacing: 2.62px;
@@ -291,7 +291,7 @@ p{
 }
 
 .blog-header{
-    font-family: RobotoMono-Medium;
+    font-family: RobotoMono-Medium, sans-serif !important;;
     font-size: 34px;
     color: #484848;
     line-height: 50px;
@@ -361,7 +361,7 @@ p{
         visibility: hidden;
     }
     .nav-link {
-    font-family: RobotoMono-Medium;
+    font-family: RobotoMono-Medium, sans-serif !important;;
     font-size: 20px;
     color: #939393;
     text-align: left;
@@ -373,7 +373,7 @@ p{
     }
     .footer h1 {
         opacity: 0.9;
-        font-family: RobotoMono-Medium;
+        font-family: RobotoMono-Medium, sans-serif !important;;
         font-size: 34px;
         color: #FFFFFF;
         line-height: 70px;
@@ -384,14 +384,14 @@ p{
     .footer h1 {
         margin-top: 44px;
         opacity: 0.9;
-        font-family: RobotoMono-Medium;
+        font-family: RobotoMono-Medium, sans-serif !important;;
         font-size: 30px;
         color: #FFFFFF;
         line-height: 54px;
     }
 
     .footer .main-button {
-            font-family: RobotoMono-Medium;
+            font-family: RobotoMono-Medium, sans-serif !important;;
             font-size: 13px;
             color: #FFFFFF;
             letter-spacing: 2.62px;
@@ -411,7 +411,7 @@ p{
         visibility: hidden;
     }
     .nav-link {
-    font-family: RobotoMono-Medium;
+    font-family: RobotoMono-Medium, sans-serif !important;;
     font-size: 20px;
     color: #939393;
     text-align: left;
@@ -423,7 +423,7 @@ p{
     }
     .footer h1 {
         opacity: 0.9;
-        font-family: RobotoMono-Medium;
+        font-family: RobotoMono-Medium, sans-serif !important;;
         font-size: 34px;
         color: #FFFFFF;
         line-height: 70px;
@@ -433,14 +433,14 @@ p{
     }
     .footer h1 {
         opacity: 0.9;
-        font-family: RobotoMono-Medium;
+        font-family: RobotoMono-Medium, sans-serif !important;;
         font-size: 64px;
         color: #FFFFFF;
         line-height: 100px;
     }
 
     .footer .main-button {
-        font-family: RobotoMono-Medium;
+        font-family: RobotoMono-Medium, sans-serif !important;;
         font-size: 20px;
         color: #FFFFFF;
         letter-spacing: 2.62px;
@@ -460,7 +460,7 @@ p{
         visibility: visible;
     }
     .nav-link {
-    font-family: RobotoMono-Medium;
+    font-family: RobotoMono-Medium, sans-serif !important;;
     font-size: 20px;
     color: #939393;
     text-align: left;
@@ -475,14 +475,14 @@ p{
     }
     .footer h1 {
         opacity: 0.9;
-        font-family: RobotoMono-Medium;
+        font-family: RobotoMono-Medium, sans-serif !important;;
         font-size: 64px;
         color: #FFFFFF;
         line-height: 100px;
     }
 
     .footer .main-button {
-        font-family: RobotoMono-Medium;
+        font-family: RobotoMono-Medium, sans-serif !important;;
         font-size: 20px;
         color: #FFFFFF;
         letter-spacing: 2.62px;
@@ -502,7 +502,7 @@ p{
         visibility: visible;
     }
     .nav-link{
-        font-family: RobotoMono-Medium;
+        font-family: RobotoMono-Medium, sans-serif !important;;
         font-size: 28px;
         color: #939393;
         text-align: left;
@@ -517,14 +517,14 @@ p{
     }
     .footer h1 {
         opacity: 0.9;
-        font-family: RobotoMono-Medium;
+        font-family: RobotoMono-Medium, sans-serif !important;;
         font-size: 64px;
         color: #FFFFFF;
         line-height: 100px;
     }
 
     .footer .main-button {
-        font-family: RobotoMono-Medium;
+        font-family: RobotoMono-Medium, sans-serif !important;;
         font-size: 20px;
         color: #FFFFFF;
         letter-spacing: 2.62px;
@@ -544,7 +544,7 @@ p{
         visibility: visible;
     }
     .nav-link{
-        font-family: RobotoMono-Medium;
+        font-family: RobotoMono-Medium, sans-serif !important;;
         font-size: 28px;
         color: #939393;
         text-align: left;
@@ -556,7 +556,7 @@ p{
     }
     .footer h1{
         opacity: 0.9;
-        font-family: RobotoMono-Medium;
+        font-family: RobotoMono-Medium, sans-serif !important;;
         font-size: 64px;
         color: #FFFFFF;
         line-height: 100px;
@@ -566,14 +566,14 @@ p{
     }
     .footer h1 {
         opacity: 0.9;
-        font-family: RobotoMono-Medium;
+        font-family: RobotoMono-Medium, sans-serif !important;;
         font-size: 64px;
         color: #FFFFFF;
         line-height: 100px;
     }
 
     .footer .main-button {
-        font-family: RobotoMono-Medium;
+        font-family: RobotoMono-Medium, sans-serif !important;, sans-serif !important;
         font-size: 20px;
         color: #FFFFFF;
         letter-spacing: 2.62px;
